@@ -1,5 +1,5 @@
 # TxRecon
-TxRecon is a script that can find the interests, friends, and connections of any two twitter users. TxRecon also uses [WhatsMyName](https://github.com/WebBreacher/WhatsMyName), which is a high-speed username checker written by WebBreacher.
+TxRecon is a script that can find the connections of any two twitter users. TxRecon also uses [WhatsMyName](https://github.com/WebBreacher/WhatsMyName), which is a high-speed username checker written by WebBreacher.
 
 ![TxTriangulation](https://user-images.githubusercontent.com/45581646/118382873-65b17e00-b5ae-11eb-9613-164a241199a4.PNG)
 
