@@ -4,7 +4,8 @@ TxRecon is a script that can find the connections of any two twitter users. TxRe
 ![TxTriangulation](https://user-images.githubusercontent.com/45581646/118382873-65b17e00-b5ae-11eb-9613-164a241199a4.PNG)
 
 ### Important Side note
-You **MUST** have a twitter api key for this program to work.
+You **MUST** have a twitter API key for this program to work.
+To add your API key, the TxTriangulate.py file has a spot for your API keys right at the top. 
 
 ## Usage
 ### General Usage
