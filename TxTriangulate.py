@@ -54,7 +54,7 @@ def GrabIDs(targetA, targetB):
             uxl = api.GetFriends(screen_name=str(ux), total_count=mx_count)
             gxl = [k.screen_name for k in uxl]
         except twitter.error.TwitterError:
-            print("Fuck you twitter API!")
+            print("Screw you twitter API!")
             continue
         for User in gxl:
             if User in Usr1:
@@ -75,7 +75,7 @@ def GrabIDs(targetA, targetB):
             Gnx = api.GetFriends(screen_name = str(uyer), total_count=mx_count)
             gyl = [m.screen_name for m in Gnx]
         except twitter.error.TwitterError:
-            print("Fuck you, Twitter api!")
+            print("Screw you, Twitter api!")
             continue
         for uxer in gyl:
             if uxer in Usr1:
