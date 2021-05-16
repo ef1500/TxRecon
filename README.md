@@ -12,7 +12,7 @@ To add your API key, the TxTriangulate.py file has a spot for your API keys righ
 ### General Usage
 ```python3 engine.py t1 t2```
 
-This is the gneric usage of the script. If the account has a large amount of followers then you will most likey burn the API, so I'd suggest using the Mutuals Flag if you're concerned about that.
+This is the generic usage of the script. If the account has a large amount of followers then you will most likely burn the API, so I'd suggest using the Mutuals Flag if you're concerned about that.
 
 ### Only searching for mutuals
 ```python3 engine.py t1 t2 -Mx```
